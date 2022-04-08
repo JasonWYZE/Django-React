@@ -1,4 +1,5 @@
 **Django and React Project** 
+<br>
 In this project, I am going to build a website, a canvas-like system, using Django and react. Basically, it should allow multiple users to log in to this website. Basically, a teacher can create assignments that students can do and view the grade after they finished. In order to finish this project, I need to start to learn Django and react. Therefore, there is the schedule I set up for myself. 
 
 <br>
